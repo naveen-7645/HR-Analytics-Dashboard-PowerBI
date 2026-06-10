@@ -1,6 +1,10 @@
 # HR-Analytics-Dashboard-PowerBI
 
 # HR Analytics Dashboard - Employee Attrition Analysis
+<img width="1048" height="597" alt="Exec_Dash" src="https://github.com/user-attachments/assets/6b805a73-9ddf-4b5c-99d9-88371861ecb2" /><img width="1448" height="770" alt="Attrition Drivers" src="https://github.com/user-attachments/assets/3dab3255-827b-412d-98e3-9ae8524732e5" />
+
+
+
 
 ## Project Overview
 This Power BI dashboard analyzes employee attrition using the IBM HR Analytics dataset.
